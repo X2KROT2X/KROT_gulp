@@ -1,0 +1,26 @@
+$bfs: 10pt;
+
+@mixin ph {
+  @media screen and (max-width:600px) {
+    @content;
+  }
+}
+body{
+  box-sizing: border-box;
+  font-size: $bfs;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: normal;
+  @include ph{
+    font-size: 7pt;
+    color: aliceblue;
+    background: #000;
+  }
+}
+.fs{
+  font-size: 23pt;
+}
+
+
+@import "block/heder.scss";
+

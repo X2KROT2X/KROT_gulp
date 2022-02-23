@@ -1,0 +1,10 @@
+.bg{
+  width: 200px;
+  height: 100px;
+  background: rgb(11, 73, 0);
+  color: aliceblue;
+  @include ph{
+    background: rgb(75, 175, 57);
+    color:#000
+  }
+}

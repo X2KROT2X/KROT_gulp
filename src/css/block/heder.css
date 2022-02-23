@@ -1,0 +1,30 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 200px auto 0px auto;
+  align-items: center;
+  align-content: center;
+}
+.hh{
+  background: #f5f5f5;
+  padding: 30px;
+  color: rgb(0, 0, 0);
+  font-size: medium;
+  border-radius: 10px;
+}
+/*yr ghbdtn */
+h1{
+  margin-left:5%;
+  font-size: 28pt;
+}
+ul li{
+  list-style-type: none;
+}
+@media screen and (max-width:600px) {
+
+  .bg {
+    background: rgb(75, 175, 57);
+    color: #000
+  }
+}
