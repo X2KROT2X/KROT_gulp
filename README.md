@@ -1,24 +1,16 @@
 # сборка gulp для верстальщиков V 1.0.0
 
 ## расположение:
-### ввод(src)
-| папки    | пути                     | 
-| ------------- |:------------------: | 
-| HTML     | ./src/html/\*\*/\*.html           | 
-| CSS      | ./src/css/\*\*/\*.css             | 
-| SASS     | ./src/sass/\*\*/\*.scss           | 
-| JS       | ./src/js/\*\*/\*.js               | 
-| IMG      | ./src/img/\*\*/\*.img,...         | 
-| FONT     | ./src/img/\*\*/\*.ttf,...         | 
-### вывод(public)
-| папки       | пути                | 
-| ------------- |:------------------:| 
-| HTML     | ./public/html/\*\*/\*.html           | 
-| CSS      | ./public/css/\*\*/\*.css             | 
-| SASS     | ./public/sass/\*\*/\*.scss           | 
-| JS       | ./public/js/\*\*/\*.js               | 
-| IMG      | ./public/img/\*\*/\*.img,...         | 
-| FONT     | ./public/img/\*\*/\*.ttf,...         | 
+
+|ввод(src) |                            вывод(public)|
+| папки    | пути                     |  |    папки       | пути                | 
+| ------------- |:------------------: |:------------------: |:------------------: ||:------------------: |
+| HTML     | ./src/html/\*\*/\*.html  | | HTML     | ./public/html/\*\*/\*.html           | 
+| CSS      | ./src/css/\*\*/\*.css    | |CSS      | ./public/css/\*\*/\*.css             | 
+| SASS     | ./src/sass/\*\*/\*.scss  | |SASS     | ./public/sass/\*\*/\*.scss           | 
+| JS       | ./src/js/\*\*/\*.js      | |JS       | ./public/js/\*\*/\*.js               | 
+| IMG      | ./src/img/\*\*/\*.img,...| |IMG      | ./public/img/\*\*/\*.img,...         | 
+| FONT     | ./src/img/\*\*/\*.ttf,...| |FONT     | ./public/img/\*\*/\*.ttf,...         | 
 
 
 ## Инструкция:
