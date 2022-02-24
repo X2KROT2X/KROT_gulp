@@ -7,7 +7,7 @@
   4. 
 
   ## устоновленые NPM пакеты:
-  "browser-sync"
+  "browser-sync" <br/>
   "del"
   "gulp"
   "gulp-autoprefixer"
