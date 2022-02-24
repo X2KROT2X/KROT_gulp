@@ -2,15 +2,15 @@
 
 ## расположение:
 
-|ввод(src) |                            вывод(public)|
-| папки    | пути                     |  |    папки       | пути                | 
+<!-- |ввод(src) |                            вывод(public)| -->
+| папки    | пути                     | 1 |    папки       | пути                | 
 | ------------- |:------------------: |:------------------: |:------------------: ||:------------------: |
-| HTML     | ./src/html/\*\*/\*.html  | | HTML     | ./public/html/\*\*/\*.html           | 
-| CSS      | ./src/css/\*\*/\*.css    | |CSS      | ./public/css/\*\*/\*.css             | 
-| SASS     | ./src/sass/\*\*/\*.scss  | |SASS     | ./public/sass/\*\*/\*.scss           | 
-| JS       | ./src/js/\*\*/\*.js      | |JS       | ./public/js/\*\*/\*.js               | 
-| IMG      | ./src/img/\*\*/\*.img,...| |IMG      | ./public/img/\*\*/\*.img,...         | 
-| FONT     | ./src/img/\*\*/\*.ttf,...| |FONT     | ./public/img/\*\*/\*.ttf,...         | 
+| HTML     | ./src/html/\*\*/\*.html  |1 | HTML     | ./public/html/\*\*/\*.html           | 
+| CSS      | ./src/css/\*\*/\*.css    |1|CSS      | ./public/css/\*\*/\*.css             | 
+| SASS     | ./src/sass/\*\*/\*.scss  |1|SASS     | ./public/sass/\*\*/\*.scss           | 
+| JS       | ./src/js/\*\*/\*.js      |1|JS       | ./public/js/\*\*/\*.js               | 
+| IMG      | ./src/img/\*\*/\*.img,...|1|IMG      | ./public/img/\*\*/\*.img,...         | 
+| FONT     | ./src/img/\*\*/\*.ttf,...|1|FONT     | ./public/img/\*\*/\*.ttf,...         | 
 
 
 ## Инструкция:
