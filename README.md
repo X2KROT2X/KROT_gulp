@@ -2,14 +2,10 @@
 
 ## расположение:
 ### Ввод(src)
-| папки    | пути                     | 
-| ------------- |:------------------: | 
-| HTML     | ./src/html/\*\*/\*.html           | 
-| CSS      | ./src/css/\*\*/\*.css             | 
-| SASS     | ./src/sass/\*\*/\*.scss           | 
-| JS       | ./src/js/\*\*/\*.js               | 
-| IMG      | ./src/img/\*\*/\*.img,...         | 
-| FONT     | ./src/img/\*\*/\*.ttf,...         | 
+|| HTML | CSS | SASS| JAVASCRIPT | IMAGES | FONT |
+|:---|:------:|:------:|:-----:|:----:|:-----:|:-----:|
+| **Каталог** | ./src/html/ | src/css/ |src/sass/| src/js/ | src/img/ |src/font/ |
+| **Расширение** | .html | .css |.scss, .sass | .js | .jpg, .png, .gif | .ttf,.. |
 ### Вывод(public)
 | папки       | пути                | 
 | ------------- |:------------------:| 
