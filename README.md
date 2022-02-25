@@ -7,14 +7,10 @@
 | **Каталог** | ./src/html/ | src/css/ |src/sass/| src/js/ | src/img/ |src/font/ |
 | **Расширение** | .html | .css |.scss, .sass | .js | .jpg, .png, .gif | .ttf,.. |
 ### Вывод(public)
-| папки       | пути                | 
-| ------------- |:------------------:| 
-| HTML     | ./public/html/\*\*/\*.html           | 
-| CSS      | ./public/css/\*\*/\*.css             | 
-| SASS     | ./public/sass/\*\*/\*.scss           | 
-| JS       | ./public/js/\*\*/\*.js               | 
-| IMG      | ./public/img/\*\*/\*.img,...         | 
-| FONT     | ./public/img/\*\*/\*.ttf,...         | 
+|| HTML | CSS | SASS| JAVASCRIPT | IMAGES | FONT |
+|:---|:------:|:------:|:-----:|:----:|:-----:|:-----:|
+| **Каталог** | ./public/html/ | public/css/ |public/sass/| public/js/ | public/img/ |public/font/ |
+| **Расширение** | .html | .css |.scss, .sass | .js | .jpg, .png, .gif | .ttf,.. |
 
 
 ## Инструкция:
