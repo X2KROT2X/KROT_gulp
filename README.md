@@ -7,10 +7,10 @@
 | **Каталог** | ./src/html/ | src/css/ |src/sass/| src/js/ | src/img/ |src/font/ |
 | **Расширение** | .html | .css |.scss, .sass | .js | .jpg, .png, .gif | .ttf,.. |
 ### Вывод(public)
-|| HTML | CSS | SASS| JAVASCRIPT | IMAGES | FONT |
-|:---|:------:|:------:|:-----:|:----:|:-----:|:-----:|
-| **Каталог** | ./public/html/ | public/css/ |public/sass/| public/js/ | public/img/ |public/font/ |
-| **Расширение** | .html | .css |.scss, .sass | .js | .jpg, .png, .gif | .ttf,.. |
+|| HTML | CSS | JAVASCRIPT | IMAGES | FONT |
+|:---|:------:|:------:|:----:|:-----:|:-----:|
+| **Каталог** | ./public/html/ |public/sass/| public/js/ | public/img/ |public/font/ |
+| **Расширение** | .html | .css  | .js | .jpg, .png, .gif, webp | .ttf,woff,woof2 |
 
 
 ## Инструкция:
