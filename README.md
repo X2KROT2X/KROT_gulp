@@ -7,6 +7,7 @@
 |:---|:------:|:------:|:-----:|:----:|:-----:|:-----:|
 | **Каталог** | ./src/html/ | src/css/ |src/sass/| src/js/ | src/img/ |src/font/ |
 | **Расширение** | .html | .css |.scss, .sass | .js | .jpg, .png, .gif | .ttf,.. |
+
 ### **Вывод (public)**
 || HTML | CSS | JAVASCRIPT | IMAGES | FONT |
 |:---|:------:|:------:|:----:|:-----:|:-----:|
@@ -22,9 +23,9 @@
   5. чтобы начать работу в режиме публикации напишите `npm run build`
 
   ## устоновленые NPM пакеты:
+  ["gulp"]() <br/>
   ["browser-sync"]() <br/>
   ["del"]() <br/>
-  ["gulp"]() <br/>
   ["gulp-autoprefixer"]() <br/>
   ["gulp-babel"]() <br/>
   ["gulp-concat"]() <br/>
